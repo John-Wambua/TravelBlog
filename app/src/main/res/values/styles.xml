@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- Base application theme. -->
+
+    <style name="Theme.MyApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/blue700</item>-->
+        <item name="colorPrimaryDark">@color/orange800</item>
+        <item name="colorAccent">@color/grey500</item>
+    </style>
+
+</resources>
